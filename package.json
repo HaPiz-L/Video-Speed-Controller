@@ -1,0 +1,13 @@
+{
+  "name": "video-speed-controller",
+  "version": "1.0.0",
+  "description": "极简视频倍速控制器，结合 DeepSeek AI 协作完成。",
+  "author": "HaPiz-L",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.20.0"
+  }
+}

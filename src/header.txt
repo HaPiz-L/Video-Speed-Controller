@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         Video Speed Controller
+// @namespace    https://github.com/HaPiz-L
+// @version      1.0.0
+// @description  极简、纯粹、无感跟随的视频倍速控制器。突破平台限制（如4x以上），完美适配 YouTube、B站、抖音及其他主流网页。本项目由 HaPiz-L 结合 DeepSeek AI 协作完成。
+// @author       HaPiz-L
+// @match        *://*/*
+// @grant        unsafeWindow
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @run-at       document-start
+// @license      MIT
+// ==/UserScript==
